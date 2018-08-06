@@ -78,8 +78,3 @@ class CrawlerVagas
         return query.join("")
     end
 end
-
-#require 'open-uri'
-#require 'nokogiri'
-#require 'crawler_empregos'
-#require 'crawler_vagas'

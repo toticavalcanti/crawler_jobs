@@ -53,11 +53,3 @@ class CrawlerEmpregos
 	end
 	
 end
-
-#CrawlerEmpregos.new('programador ruby').call
-#require 'crawler_empregos'
-
-#cria modelo no bd
-#docker-compose run --rm website bundle exec rails g model campaign title:string description:text user:references status:integer
-
-#sudo dpkg-reconfigure locales 
